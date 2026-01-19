@@ -1,0 +1,7 @@
+{
+  "name": "DocuExtract AI - Intelligent Invoice Processor",
+  "description": "A sophisticated Document AI platform for automated field extraction from invoices and quotations, supporting multilingual OCR, visual marker detection, and structured JSON output.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
